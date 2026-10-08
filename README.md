@@ -19,9 +19,6 @@ Python 擷取、整理和計算 → GitHub Actions 執行 → Neon PostgreSQL �
 ## 資料來源
 Alpaca SIP、State Street 官方 ETF 持倉、Yahoo 市場序列與新聞 RSS、Finviz 市場廣度、Cboe VIX。各來源負責不同內容，來源延遲與更新時間不能混為一談。
 
-## 作品文件
-[產品發表說明 PDF](market-scout-presentation.pdf)
-
 ## 限制
 本專案是研究輔助工具，沒有自動下單功能，不保證投資結果。DirectQuery 不代表直接連交易所或零延遲。市場短評以既定規則整理，AI 用於研發協作。
 
