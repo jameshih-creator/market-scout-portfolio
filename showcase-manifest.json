@@ -1,0 +1,90 @@
+{
+  "snapshot_date": "2026-10-11",
+  "prepared_date": "2026-10-14",
+  "mode": "static portfolio",
+  "page_count": 7,
+  "same_report_variant": true,
+  "notes": [
+    "本作品使用 2026-10-11 保存的同一份報表七頁截圖。10/11 是展示截圖日期，圖內行情與來源日期主要為 10/07–10/09，請以各頁標示為準。尚未納入 10/12 後的圖示、Logo 等最後修正。",
+    "這是靜態作品展示。圖內按鈕、篩選器與提示文字僅是截圖內容，不能操作。資料更新與部分來源仍待完整驗證；本次展示不代表即時行情、完整刷新成功或互動驗收通過。"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "title_zh": "市場總覽",
+      "title_en": "Market Overview",
+      "file": "screenshots/01-market-overview.png",
+      "captured_utc": "2026-10-11T12:03:13.539Z",
+      "sha256": "4390e2dabf01cfaf640088963b5871059563c4ca24e5f9bc44ea45df4652dd4b",
+      "bytes": 525308,
+      "width": 2833,
+      "height": 1510
+    },
+    {
+      "page": 2,
+      "title_zh": "全球市場結構",
+      "title_en": "Global Markets",
+      "file": "screenshots/02-global-markets.png",
+      "captured_utc": "2026-10-11T10:52:53.362Z",
+      "sha256": "ee29bb733571bab3f5c8d68a694b778389fe80e44e9241b0059398d6cfbe63ac",
+      "bytes": 336637,
+      "width": 2833,
+      "height": 1510
+    },
+    {
+      "page": 3,
+      "title_zh": "金融板塊輪動",
+      "title_en": "Sector Rotation",
+      "file": "screenshots/03-sector-rotation.png",
+      "captured_utc": "2026-10-11T10:46:43.596Z",
+      "sha256": "48f84cffb31c810b0906f2bd2a1c598c9db6b8156a85aa612a5aa268cdb842c0",
+      "bytes": 429461,
+      "width": 2833,
+      "height": 1510
+    },
+    {
+      "page": 4,
+      "title_zh": "宏觀跨資產",
+      "title_en": "Macro & Cross-Asset",
+      "file": "screenshots/04-cross-asset.png",
+      "captured_utc": "2026-10-11T10:51:29.315Z",
+      "sha256": "96958461a925e171dba367b5dfbeb03068bbe179642badd6915014c03955e284",
+      "bytes": 335789,
+      "width": 2833,
+      "height": 1510
+    },
+    {
+      "page": 5,
+      "title_zh": "市場廣度",
+      "title_en": "Market Breadth",
+      "file": "screenshots/05-market-breadth.png",
+      "captured_utc": "2026-10-11T10:50:32.283Z",
+      "sha256": "3680af7a17343a3bc6b1a7d97c0d658407ffe5e90e93e823434e6ebf971c6731",
+      "bytes": 397028,
+      "width": 2833,
+      "height": 1510
+    },
+    {
+      "page": 6,
+      "title_zh": "產業族群",
+      "title_en": "Industry Groups",
+      "file": "screenshots/06-industry-groups.png",
+      "captured_utc": "2026-10-11T10:48:09.732Z",
+      "sha256": "254fc8bf9ab981dc8e5bc3135202a0dd5db61c687e9dcaf4e5b11d55063d977d",
+      "bytes": 475386,
+      "width": 2833,
+      "height": 1510
+    },
+    {
+      "page": 7,
+      "title_zh": "個股領導與技術位置",
+      "title_en": "Stock Leadership",
+      "file": "screenshots/07-stock-leadership.png",
+      "captured_utc": "2026-10-11T12:00:03.858Z",
+      "sha256": "ba041853903b99a761f2e550f16aeac2c1f9ed9c8bdc5acf78192752fabf6b42",
+      "bytes": 364335,
+      "width": 2833,
+      "height": 1510
+    }
+  ]
+}
